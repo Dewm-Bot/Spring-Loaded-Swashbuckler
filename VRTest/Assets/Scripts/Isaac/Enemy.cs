@@ -1,8 +1,10 @@
+using TMPro;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
     [SerializeField] private float enemyHealth;
+    [SerializeField] private TMP_Text enemyHealthText;
 
     private void Update()
     {
@@ -15,6 +17,7 @@ public class Enemy : MonoBehaviour
     public void ChangeEnemyHealth(float health)
     {
         enemyHealth += health;
+        enemyHealthText.text = $"{enemyHealth}";
         Debug.Log(enemyHealth);
     }
 }
