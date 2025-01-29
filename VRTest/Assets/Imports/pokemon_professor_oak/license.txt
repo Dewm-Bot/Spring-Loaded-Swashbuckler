@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pokemon Professor Oak
+* source:	https://sketchfab.com/3d-models/pokemon-professor-oak-212d5d395ad14367aacac0be70922acb
+* author:	3D Resource (https://sketchfab.com/lopuh22721)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pokemon Professor Oak" (https://sketchfab.com/3d-models/pokemon-professor-oak-212d5d395ad14367aacac0be70922acb) by 3D Resource (https://sketchfab.com/lopuh22721) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
