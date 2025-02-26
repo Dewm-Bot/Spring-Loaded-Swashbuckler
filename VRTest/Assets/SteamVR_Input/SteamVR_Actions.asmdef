@@ -1,0 +1,17 @@
+{
+  "name": "SteamVR_Actions",
+  "references": [
+    "SteamVR",
+    "SteamVR_Windows_EditorHelper"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [
+    "Android"
+  ],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": []
+}

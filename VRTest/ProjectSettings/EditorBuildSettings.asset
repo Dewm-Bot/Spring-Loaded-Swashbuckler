@@ -12,7 +12,11 @@ EditorBuildSettings:
     path: Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0e8283d258f2f3ce8bff86a1d7480ae3, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: ab0de8b21107c8719acc2c9d7eedff09, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5202b0dc0bb9b4888989c5e45043e85c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 57fc918fdb50ab94d91a8a654038e984, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5e24b0c67c1664842ad070b1e6ea1745, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 1a5fd27b9f36c7be181c9dd944d918e1, type: 2}
   m_UseUCBPForAssetBundles: 0
